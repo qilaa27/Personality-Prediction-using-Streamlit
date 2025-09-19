@@ -2,7 +2,7 @@
 
 This group project builds and deploys a **machine learning model** to classify individuals as **Extrovert or Introvert** based on social-behavior data (2,900 records, 8 features).
 
-Link for the explanation (in bahasa): https://www.canva.com/design/DAGpqG0bo7w/C6bPyzpitLGr5VuCNQKmcg/edit?utm_content=DAGpqG0bo7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+Link for the explanation (in bahasa): [https://www.canva.com/design/DAGpqG0bo7w/C6bPyzpitLGr5VuCNQKmcg/edit?utm_content=DAGpqG0bo7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ](https://bit.ly/PresentationPersonality)
 
 ## 🎯 Objective
 Create an end-to-end ML pipeline—data preprocessing, model training, and deployment—that predicts personality type from behavioral inputs such as:
