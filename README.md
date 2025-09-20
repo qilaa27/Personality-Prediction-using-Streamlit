@@ -1,6 +1,6 @@
 # Extrovert–Introvert Personality Classifier
 
-This group project builds and deploys a **machine learning model** to classify individuals as **Extrovert or Introvert** based on social-behavior data (2,900 records, 8 features).
+This is the final group project builds and deploys a **machine learning model** to classify individuals as **Extrovert or Introvert** based on social-behavior data (2,900 records, 8 features).
 
 Link for the explanation (in bahasa): https://bit.ly/PresentationPersonality 
 ## 🎯 Objective
